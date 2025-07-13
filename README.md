@@ -1,6 +1,6 @@
 ## Description
 
-This repo is for our paper titled [LLMs can Perform Multi-Dimensional Analytic Writing Assessments: A Case Study of L2 Graduate-Level Academic English Writing](https://arxiv.org/pdf/2502.11368) (Accepted to ACL 2025 Main). It contains the code for (1) as well as a previously unpulished corpus of 141 graudate-level L2 literature reviews annotated with multi-dimensional analytic writing assessments ; (2) the feedback comment quality evaluation framework `ProEval` we propose and validate in the paper.
+This repo is for our paper titled [LLMs can Perform Multi-Dimensional Analytic Writing Assessments: A Case Study of L2 Graduate-Level Academic English Writing](https://arxiv.org/pdf/2502.11368) (Accepted to ACL 2025 Main). It contains (1) a previously unpulished corpus of 141 graudate-level L2 literature reviews annotated with multi-dimensional analytic writing assessments ; (2) and the code for the feedback comment quality evaluation framework `ProEval` we propose and validate in the paper.
 
 
 
