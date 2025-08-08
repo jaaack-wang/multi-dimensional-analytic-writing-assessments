@@ -66,14 +66,26 @@ We use [litellm](https://github.com/BerriAI/litellm) to call LLMs, so please fol
 ## Citation
 
 ```
-@misc{wang2025llmsperformmultidimensionalanalytic,
-      title={LLMs can Perform Multi-Dimensional Analytic Writing Assessments: A Case Study of L2 Graduate-Level Academic English Writing}, 
-      author={Zhengxiang Wang and Veronika Makarova and Zhi Li and Jordan Kodner and Owen Rambow},
-      year={2025},
-      eprint={2502.11368},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.11368}, 
+@inproceedings{wang-etal-2025-llms-perform,
+    title = "{LLM}s can Perform Multi-Dimensional Analytic Writing Assessments: A Case Study of {L}2 Graduate-Level Academic {E}nglish Writing",
+    author = "Wang, Zhengxiang  and
+      Makarova, Veronika  and
+      Li, Zhi  and
+      Kodner, Jordan  and
+      Rambow, Owen",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.423/",
+    doi = "10.18653/v1/2025.acl-long.423",
+    pages = "8637--8663",
+    ISBN = "979-8-89176-251-0",
 }
 ```
 
